@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4948621667959689138
+  m_GuidHigh: 17490216337970894735
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5129937474944038882
+      m_GuidHigh: 12160468458599055803
+    m_SerializedTextureGuid:
+      m_GuidLow: 8697780519053837814
+      m_GuidHigh: 3737318583198230139
+    m_Size: {x: 0.1, y: 0.10012225}
+    m_SpecifySize: 1
+    m_Name: Game1
+    m_Texture: {fileID: 2800000, guid: 9c8445f6b94c78b47b26ff43739fdd33, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5028290302510780081
+      m_GuidHigh: 1501912050344412073
+    m_SerializedTextureGuid:
+      m_GuidLow: 17966074223460353444
+      m_GuidHigh: 6414432783324069608
+    m_Size: {x: 0.1, y: 0.075}
+    m_SpecifySize: 1
+    m_Name: Game3
+    m_Texture: {fileID: 2800000, guid: 61a805a45151f954e8bea69da1a40459, type: 3}

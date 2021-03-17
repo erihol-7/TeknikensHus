@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Erik\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Erik\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_TeknikensHus.532310240.00" t="ExcludeRecursive" />
+    <e p="G:\UnityProjects\TeknikensHus" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AssetsPacks" t="Include">
+          <e p="Asteroids Pack" t="Include">
+            <e p="Assets" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="RandomRotator.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Planet Earth Free" t="Include">
+            <e p="SpinFree.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AsteroidCollision.cs" t="Include" />
+          <e p="BulletScript.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
+          <e p="Game 3" t="Include">
+            <e p="FireTileScript.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="GetWater.cs" t="Include" />
+            <e p="Projectile.cs" t="Include" />
+            <e p="ReleaseWater.cs" t="Include" />
+            <e p="SoundManger.cs" t="Include" />
+          </e>
+          <e p="Heart.cs" t="Include" />
+          <e p="MainMenuScript.cs" t="Include" />
+          <e p="Menu" t="Include">
+            <e p="MainMenu.cs" t="Include" />
+            <e p="MainMenuImageTracker.cs" t="Include" />
+          </e>
+          <e p="MiniMapScript.cs" t="Include" />
+          <e p="PositionScript.cs" t="Include" />
+          <e p="RotateAround.cs" t="Include" />
+          <e p="SatelliteCollision.cs" t="Include" />
+          <e p="Scoring.cs" t="Include" />
+          <e p="ShootScript.cs" t="Include" />
+          <e p="SpawnManager.cs" t="Include" />
+          <e p="TrackerScript.cs" t="Include" />
+          <e p="URLScript.cs" t="Include" />
+        </e>
+        <e p="UICanvas" t="Include">
+          <e p="TextMesh Pro" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="LiberationSans - OFL.txt" t="Include" />
+            </e>
+            <e p="Resources" t="Include">
+              <e p="LineBreaking Following Characters.txt" t="Include" />
+              <e p="LineBreaking Leading Characters.txt" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF SSD.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Mobile.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+            <e p="Sprites" t="Include">
+              <e p="EmojiOne Attribution.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="TeknikensHus.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
